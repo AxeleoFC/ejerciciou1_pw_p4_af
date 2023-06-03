@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    text-align: center;
+    padding: 4px 45px;
+    display: block;
+    border: 0.5px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.resultado{
+    border: 1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+    background-color: blue;
+}
+button{
+    display: block;
+    margin: 4px 5px;
+    border: 1px  black;
+    width: 97.5%;
+    border-radius: 4px;
+}
+img{
+    width: 100%;
+    display: block;
+}
+button:hover{
+    background-color: cornflowerblue;
+}
+section{
+    background-color: rgba(190, 188, 188, 0.801);
+}
